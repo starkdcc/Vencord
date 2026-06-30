@@ -393,7 +393,7 @@ function onMessageCreate(payload: MessageCreatePayload) {
 export default definePlugin({
     name: "MentionRain",
     description: "Cascading raindrops fall across your screen when you are mentioned. Cinematic parallax depth, soft glow, splash particles, optional sparkle style. Pure visual feedback for notifications.",
-    tags: ["Mentions", "Notifications", "Appearance", "Fun"],
+    tags: ["Notifications", "Appearance", "Fun"],
     authors: [
         { name: "stark", id: 0n }
     ],
